@@ -1,0 +1,14 @@
+#tpl {
+    .text-accent {
+        font-size: vh(178);
+        color: $color-accent;
+        font-family: $font-accent;
+        font-weight: $font-weight-accent;
+        letter-spacing: 0.03em;
+        line-height: 0.7;
+
+        @media (--viewport-portrait-layout) {
+            font-size: vw(80, true);
+        }
+    }
+}

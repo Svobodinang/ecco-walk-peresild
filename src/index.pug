@@ -1,0 +1,18 @@
+article#tpl
+    include components/meta.pug
+    include components/mainPage/mainPage.pug
+    include components/slide/slide.pug
+    include components/videoBlock/videoBlock.pug
+
+    main.main 
+        .horizontal-scroll-container#horizontalScroll
+            .swiper-wrapper
+                each slide in data
+                    .swiper-slide
+                        if (slide.mainPage)
+                            +mainPage(slide.content)
+                        else if (slide.videoBlock)
+                            +videoBlock(slide.content)
+                        else
+                            +slide(slide.content)
+            .swiper-pagination

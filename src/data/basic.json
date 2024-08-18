@@ -1,0 +1,118 @@
+[
+    {
+        "mainPage": true,
+        "content": {
+            "img": {
+                "name": "mainPage.jpg",
+                "namePt": "mainPagePt.jpg"
+            },
+            "title": "<span>Юлия</span> <span>Пересильд</span>"
+        }
+    },
+    {
+        "content": {
+            "modifiers": "m1",
+            "accentText": "Помнишь наши прогулки?",
+            "text": "<p>Прогулка с&nbsp;Юлией Пересильд&nbsp;&mdash; это энергия, красота, тепло воспоминаний.</p> <p>Путешествие сквозь порталы во&nbsp;времени и&nbsp;пространстве.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Юлии <a href='https://www.ecco.ru/catalog/222603/01065/'>Туфли ECCO SCULPTED LX&nbsp;55</a>",
+                "link": "https://www.ecco.ru/catalog/222603/01065/",
+                "shoesImg": {
+                    "name": "shoes1.png",
+                    "alt": "Туфли ECCO SCULPTED LX 5"
+                }
+            },
+            "img": {
+                "name": "img1.jpg",
+                "alt": "Фотография Юлии Пересильд"
+            },
+            "imgSplit": {
+                "name": "img1Split.jpg",
+                "alt": "Фотография стеклянного здания"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "img-full-size m2",
+            "accentText": "Как шагали по&nbsp;канатам...",
+            "text": "<p>Что если свернуть с&nbsp;привычного маршрута и&nbsp;пойти туда, где дома нашептывают истории?</p> <p>Воспоминания и&nbsp;мечты сплетаются с&nbsp;реальностью. Этот город может рассказать многое о&nbsp;тебе, о&nbsp;нас.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Юлии <a href='https://www.ecco.ru/catalog/856813/50874/'>Кеды ECCO STREET ACE&nbsp;W</a>",
+                "link": "https://www.ecco.ru/catalog/856813/50874/"
+            },
+            "img": {
+                "name": "img2.jpg",
+                "alt": "Фотография Юлии Пересильд"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "m3",
+            "accentText": "...открывали порталы, тайные укрытия",
+            "text": "<p>Стоит лишь открыться ему навстречу, прислушаться, заметить неслучайное в&nbsp;случайностях перекрестков.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Юлии <a href='https://www.ecco.ru/catalog/222703/01065/'>Челси ECCO SCULPTED LX&nbsp;55</a>",
+                "link": "https://www.ecco.ru/catalog/222703/01065/",
+                "shoesImg": {
+                    "name": "shoes3.png",
+                    "alt": "Челси ECCO SCULPTED LX 55"
+                }
+            },
+            "img": {
+                "name": "img3.jpg",
+                "alt": "Фотография Юлии Пересильд"
+            },
+            "imgSplit": {
+                "name": "img3Split.jpg",
+                "alt": "Фотография арки здания"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "img-full-size",
+            "accentText": "Моменты",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Юлии <a href='https://www.ecco.ru/catalog/218303/01163/'>Кроссовки ECCO GRUUV&nbsp;W</a>",
+                "link": "https://www.ecco.ru/catalog/218303/01163/"
+            },
+            "img": {
+                "name": "img5.jpg",
+                "alt": "Фотография Юлии Пересильд"
+            }
+        }
+    },
+    {
+        "content": {
+            "modifiers": "m4",
+            "accentText": "Когда чувствуешь жизнь",
+            "text": "<p>Сколько лет прошло? Неважно. Главное, что у&nbsp;нас есть теплые воспоминания и&nbsp;бессчетное множество прогулок и&nbsp;разговоров впереди.</p>",
+            "shoesInfo": {
+                "helpText": "На&nbsp;Юлии <a href='https://www.ecco.ru/catalog/214793/61069/'>Челси ECCO GRAINER&nbsp;W</a>",
+                "link": "https://www.ecco.ru/catalog/214793/61069/",
+                "shoesImg": {
+                    "name": "shoes5.png",
+                    "alt": "Челси ECCO GRAINER W"
+                }
+            },
+            "img": {
+                "name": "img6.jpg",
+                "alt": "Фотография Юлии Пересильд"
+            },
+            "imgSplit": {
+                "name": "img5Split.jpg",
+                "alt": "Фотография парка"
+            }
+        }
+    },
+    {
+        "videoBlock": true,
+        "content": {
+            "accentText": "Пойдем пройдемся?",
+            "link": "https://edge-msk-7.kinescopecdn.net/3cf9507f-7fc2-4434-bac9-5c0185a3b7d9/videos/c7b52c40-af13-4520-99a4-d7801d9b2700/assets/4ed559c5-4e33-42aa-8293-2e4043068ddd/original.mp4",
+            "previewImgName": "preview.jpg"
+        }
+    }
+]
